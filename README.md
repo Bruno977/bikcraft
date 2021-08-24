@@ -1,3 +1,3 @@
-#PROJETOS DO CURSO ORIGAMID
+#PROJETO DO CURSO ORIGAMID
 
 1 - Bikcraft Site para venda de bicicletas 
