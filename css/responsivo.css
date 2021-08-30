@@ -59,6 +59,10 @@ Estilo para smartphone */
         border-color: #fff;
     }
 
+    .header_menu ul li a.menu-ativo{
+        border-color: #fff;
+    }
+
     /*Introducao*/
 
     .introducao h1{
@@ -72,6 +76,10 @@ Estilo para smartphone */
 	    background-size: cover;
     }   
 
+    /* Introdução Interna */
+
+    .introducao-interna{margin-top: 0px;}
+
     /*Call*/
 
     .call {
@@ -81,6 +89,19 @@ Estilo para smartphone */
     /*Qualidade Home*/
     .qualidade:after{
         display: none;
+    }
+
+    /* Sobre */
+
+    .missao-sobre p {
+        font-size: 14px;
+        line-height: 20px;
+        padding-right: 0px;
+    }
+
+    .missao-sobre ul li{
+        font-size: 14px;
+        line-height: 25px;
     }
 
 }
